@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-author: "Your Name"
+author: "jlmn"
 format: pdf
 ---
 
@@ -9,12 +9,12 @@ format: pdf
 <div class="column"
 style="background-color: #e5e7eb; width: 28%; font-size: small;">
 
-<img src="foto_cv_2.jpg" style="display: flex; margin: auto; padding-top: 5px; border-radius: 150px; width: 150px;"/>
+
 
 #### JOSE LUIS MORALEDA NAVAMUEL
 
 #### CONTACTO
-
+<img src="foto.jpg" style="display: flex; margin: auto; float: right; padding-top: 5px; border-radius: 150px; width: 150px;"/>
 📧: jmoraledanavamuel@gmail.com
 
 📱: XXXXXXXXX
