@@ -15,7 +15,7 @@ style="background-color: #e5e7eb; width: 28%; font-size: small;">
 
 #### CONTACT
 
-<img align="right" src="foto.jpg" width="150" style="border-radius: 50%;">
+<img align="right" src="foto.jpg" width="75" style="border-radius: 50%;">
 
 📧: jmoraledanavamuel@gmail.com
 
