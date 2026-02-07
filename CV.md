@@ -27,3 +27,10 @@
 │
 └── 📁 educacion/
     └── 🎓 grado_ingenieria.pdf
+
+### Cómo lograr que se vea perfecto
+1.  **Bloque de código:** En Markdown, encierra el árbol entre tres tildes invertidas seguido de `text` para que respete los espacios y la tipografía monoespaciada de consola.
+2.  **Jerarquía:** Usa `├──` para elementos intermedios y `└──` para el último elemento de una carpeta.
+3.  **Visualización:** Si quieres ver cómo queda antes de publicarlo, puedes usar el [Editor de Dillinger](https://dillinger.io) o el previsualizador de [GitHub](https://github.com).
+
+Puedes encontrar generadores de estructuras de carpetas automáticos en herramientas como [Tree Online](https://tree.nathanfriend.io) para no tener que dibujar las líneas manualmente.
