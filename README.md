@@ -1,4 +1,4 @@
-# 📂 CV_jlmn
+# 📂 jlmn
 
 <img align="right" src="foto.jpg" width="100" style="border-radius: 50%;">
 
