@@ -1,6 +1,6 @@
 # 📂 jlmn
 
-<img align="right" src="foto.jpg" width="50" style="border-radius: 50%;">
+<img src="foto.jpg" width="50" style="border-radius: 50%;">
 
 ```text
 .
